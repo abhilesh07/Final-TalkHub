@@ -155,7 +155,8 @@ const Home = () => {
           Built with 💖&nbsp;by &nbsp;
           <a
             className="Link"
-            href="https://www.youtube.com/watch?v=bsi8_9EoYyg&pp=ygUGa3Nia3Nq"
+            //href="https://www.youtube.com/watch?v=bsi8_9EoYyg&pp=ygUGa3Nia3Nq"
+            href="http://www.kthmcollege.ac.in/"
           >
             Nazar Ansari
           </a>
